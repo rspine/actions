@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    spine-actions (0.1.0)
+      rack (~> 1.6)
+      spine-content_types (~> 0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    multi_json (1.11.0)
+    rack (1.6.1)
+    rake (10.4.2)
+    spine-content_types (0.1.0)
+      multi_json (~> 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.7)
+  rake (~> 10.0)
+  spine-actions!
