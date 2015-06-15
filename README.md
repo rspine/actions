@@ -3,6 +3,8 @@
 [![Gem Version](https://badge.fury.io/rb/spine-actions.svg)](http://badge.fury.io/rb/spine-actions)
 [![Dependency Status](https://gemnasium.com/rspine/actions.svg)](https://gemnasium.com/rspine/actions)
 [![Code Climate](https://codeclimate.com/github/rspine/actions/badges/gpa.svg)](https://codeclimate.com/github/rspine/actions)
+[![security](https://hakiri.io/github/rspine/actions/master.svg)](https://hakiri.io/github/rspine/actions/master)
+[![Inline docs](http://inch-ci.org/github/rspine/actions.svg?branch=master)](http://inch-ci.org/github/rspine/actions)
 
 HTTP endpoint action with before and after callbacks, response builder.
 
